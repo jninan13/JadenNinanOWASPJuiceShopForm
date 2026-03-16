@@ -13,6 +13,9 @@ Technologies:
 - Node.js
 
 How to Run:
+
 npm init -y
+
 npm install
+
 node server.js
